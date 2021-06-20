@@ -12,5 +12,4 @@ Arguments: https://docs.blockscout.com/for-users/smart-contract-interaction/abi-
 Docs: https://docs.soliditylang.org/en/v0.7.0/index.html 
 Javascript on ETH: https://www.youtube.com/playlist?list=PLUMwusiHZZhptt8tfogT77-k_dmmu5AQ6 Course: https://www.udemy.com/course/contratos-inteligentes/
 
- Add a custom footer
 
