@@ -1,6 +1,6 @@
 # Learn-Solidity
 This reposity was created for devs that want to learn about Solidity, used on Ethereum, Binance Smart Chain, etc
-Guide to devs in Solidity by R-Sync
+Guide to devs in Solidity 
 
 DeFi: https://finematics.com/guide-to-decentralized-finance/ 
 Smart Contrats examples: https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md 
